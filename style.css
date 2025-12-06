@@ -2,13 +2,13 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: #f5f5f5;
-    color: #333;
+    background: pink;
+    color: red;
 }
 
 /* HEADER */
 header {
-    background: #4CAF50;
+    background: yellow;
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -25,7 +25,7 @@ header p {
 
 /* CONTENT SECTION */
 .content {
-    background: white;
+    background: yellow;
     margin: 40px auto;
     padding: 20px;
     width: 80%;
